@@ -1,4 +1,5 @@
-# shooting-game
+# shooting-game:
+#### A mini game made with Python and Pygame
 
 ![game-demo](https://github.com/aiRbAggiE/shooting-game/blob/master/demo.gif)
 
