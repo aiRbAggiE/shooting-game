@@ -17,3 +17,9 @@
 * RIGHT key: move right
 * UP key: jump
 * SPACE key: shoot bullet
+
+### Try It
+* Install Python and Pygame
+* Open the terminal
+* cd to the game files folder
+* $ python shooting-game_final.py
